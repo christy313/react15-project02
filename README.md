@@ -7,6 +7,8 @@ An introduction to 5 tours
 - Remove each tour by clicking the "Not Interested" button
 - Refresh button after removing all tours
 
+[Live Demo](https://christy313.github.io/react15-project02/)
+
 ![](./public/react02-tours.gif)
 
 ## File structure
